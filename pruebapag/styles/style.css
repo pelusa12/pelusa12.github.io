@@ -1,0 +1,32 @@
+html {
+  font-size: 10px; /* px quiere decir 'píxeles': el tamaño de la fuente base es ahora de 10 píxeles de altura */
+  font-family: 'Source Sans Pro', sans-serif; /* Este debe ser el resto del resultado que obtuviste de Google fonts */
+  background-color: rgb(95, 94, 94);
+
+}
+
+h1{
+  margin: 0;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 60px;
+  text-shadow: 3px 3px 1px black;
+}
+
+p, li{
+  font-size: 16px;
+  letter-spacing: px;
+  color:beige;
+}
+
+img{
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+
+body{
+  width: auto;
+  margin: 0 auto;
+  padding: 20px 20px 20px 20px;
+}
